@@ -1,6 +1,3 @@
-git remote add origin https://github.com/FaRaCrazYStudiO/---.git
-git branch -M main
-git push -u origin main
 print('Правила игры:')
 print('Ты можешь произвадить и продовать ресурсы')
 print('в это beta игре нет кнопак сохранить и загрузить')
